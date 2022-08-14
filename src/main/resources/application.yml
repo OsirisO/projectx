@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: projectx
+netty:
+  default:
+    allocator:
+      max-order: 3
